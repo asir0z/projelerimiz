@@ -1,1 +1,1 @@
-# projelerimiz
+# SmartEduProject
